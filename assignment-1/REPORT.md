@@ -4,11 +4,11 @@ Please follow the provided structure carefully and complete all of the sections 
 
 ## Personal information
 
-**Name**: *TODO*
+**Name**: Joemell Duarte
 
 List the GitHub usernames of your team here. If you are working alone, then write your GitHub username as the team leader and leave the list of additional team members empty.
 
-**Team leader**: *TODO*
+**Team leader**: JoeDuarte
 
 **Additional team members**: *TODO*
 
@@ -24,7 +24,7 @@ The average field lengths are to be computed across all documents in the collect
 
 | **Description** | **Value** |
 | -- | -- |
-| Number of documents | *TODO* |
+| Number of documents | 1033461 |
 | Average length of the title field | *TODO* |
 | Average length of the content field | *TODO* |
 
